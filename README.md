@@ -20,6 +20,6 @@
 <h2>Projects: </h2>
 <ul>
   <li>
-    <a href="https://github.com/matheus-gs/Apple-stock-price"target = "blank">Apple Stock Price</a>
+    <a href="https://github.com/Matheus-gs/Data-Science/blob/matheus-gs/AppleStockPrice/Untitled.ipynb" target = "blank">Apple Stock Price</a>
   </li>
 </ul>
