@@ -12,7 +12,7 @@
   <img src = "https://img.shields.io/badge/-GitHub-2a2a2a?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/users/matheus-gs/"/>
 </div>
 
-<h2>Tecnologias utilizadas: </h2>
+<h2>Technologies that i've used: </h2>
  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt="python"/>
  <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas" alt ="pandas"/>
  <img src="https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter" alt="jupyter"/>
